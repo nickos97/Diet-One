@@ -1,0 +1,29 @@
+{
+  "name": "dietone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "deep-email-validator": "^0.1.21",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash.groupby": "^4.6.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "openai": "^3.1.0",
+    "stripe": "^9.13.0",
+    "xlsx-to-json": "^0.3.0"
+  }
+}
